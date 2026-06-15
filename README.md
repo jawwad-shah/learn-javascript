@@ -8,6 +8,7 @@ Learning JavaScript with Chai aur Code by Hitesh Choudhary.
 - [ ] Arrays & Objects
 - [ ] DOM Manipulation
 - [ ] Async JavaScript
-      
+- [ ] Promises
+
 ## 🛠️ Resources
 - [Chai aur Code](https://www.youtube.com/@chaiaurcode)
